@@ -784,7 +784,7 @@
 
 @media screen and (max-width: 375px) {
   #about-area .container .btn-vechungtoi {
-    bottom: -70px;
+    bottom: -60px;
     left: 50%;
     transform: translateX(-50%);
   }
@@ -792,7 +792,7 @@
 
 @media screen and (min-width: 376px) and (max-width: 390px) {
   #about-area .container .btn-vechungtoi {
-    bottom: -70px;
+    bottom: -60px;
     left: 50%;
     transform: translateX(-50%);
   }
@@ -800,7 +800,7 @@
 
 @media screen and (min-width: 391px) and (max-width: 414px) {
   #about-area .container .btn-vechungtoi {
-    bottom: -70px;
+    bottom: -60px;
     left: 50%;
     transform: translateX(-50%);
   }
@@ -808,7 +808,7 @@
 
 @media screen and (min-width: 415px) and (max-width: 430px) {
   #about-area .container .btn-vechungtoi {
-    bottom: -70px;
+    bottom: -60px;
     left: 50%;
     transform: translateX(-50%);
   }
@@ -816,17 +816,39 @@
 
 @media screen and (min-width: 431px) and (max-width: 768px) {
   #about-area .container .btn-vechungtoi {
-    bottom: -100px;
-    left: 50%;
+    bottom: -40px;
+    left: 40%;
     transform: translateX(-50%);
+  }
+  #about-area .container .btn-vechungtoi a span{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #009e2f;
+  }
+  
+  #about-area .container .btn-vechungtoi a span:hover{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #007322;
   }
 }
 
 @media screen and (min-width: 769px) and (max-width: 820px) {
   #about-area .container .btn-vechungtoi {
-    bottom: -100px;
-    left: 50%;
+    bottom: -40px;
+    left: 40%;
     transform: translateX(-50%);
+  }
+  #about-area .container .btn-vechungtoi a span{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #009e2f;
+  }
+  
+  #about-area .container .btn-vechungtoi a span:hover{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #007322;
   }
 }
 
