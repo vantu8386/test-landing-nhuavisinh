@@ -2,9 +2,9 @@
   .navbar.affix-top {
     padding: 10px 0;
   }
-  .navbar.affix-top {
+  /* .navbar.affix-top {
     background: transparent;
-  }
+  } */
   .affix-top #navigation {
     background: rgba(0, 0, 0, 0) -webkit-linear-gradient(
         left,
@@ -463,6 +463,7 @@
   }
   .navbar-brand > img {
     width: 90%;
+    margin-top: -20px !important;
   }
   .navbar-nav li a {
     font-size: 14px;
@@ -820,13 +821,13 @@
     left: 40%;
     transform: translateX(-50%);
   }
-  #about-area .container .btn-vechungtoi a span{
+  #about-area .container .btn-vechungtoi a span {
     padding: 10px 20px;
     border-radius: 10px;
     background-color: #009e2f;
   }
-  
-  #about-area .container .btn-vechungtoi a span:hover{
+
+  #about-area .container .btn-vechungtoi a span:hover {
     padding: 10px 20px;
     border-radius: 10px;
     background-color: #007322;
@@ -839,13 +840,13 @@
     left: 40%;
     transform: translateX(-50%);
   }
-  #about-area .container .btn-vechungtoi a span{
+  #about-area .container .btn-vechungtoi a span {
     padding: 10px 20px;
     border-radius: 10px;
     background-color: #009e2f;
   }
-  
-  #about-area .container .btn-vechungtoi a span:hover{
+
+  #about-area .container .btn-vechungtoi a span:hover {
     padding: 10px 20px;
     border-radius: 10px;
     background-color: #007322;
@@ -868,12 +869,12 @@
   .text-white {
     color: #f5f7fa;
     font-size: 18px;
-    font-weight: 800;
+    font-weight: 700;
   }
   .text-gray {
     color: #cfc8c8;
     font-size: 15px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   }
   .flex-foodter {
     display: flex;
@@ -915,12 +916,12 @@
   .text-white {
     color: #f5f7fa;
     font-size: 18px;
-    font-weight: 800;
+    font-weight: 700;
   }
   .text-gray {
     color: #cfc8c8;
     font-size: 15px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   }
   .flex-foodter {
     display: flex;
@@ -962,12 +963,12 @@
   .text-white {
     color: #f5f7fa;
     font-size: 19px;
-    font-weight: 800;
+    font-weight: 700;
   }
   .text-gray {
     color: #cfc8c8;
     font-size: 16px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   }
   .flex-foodter {
     display: flex;
@@ -1009,12 +1010,12 @@
   .text-white {
     color: #f5f7fa;
     font-size: 19px;
-    font-weight: 800;
+    font-weight: 700;
   }
   .text-gray {
     color: #cfc8c8;
     font-size: 16px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   }
   .flex-foodter {
     display: flex;
@@ -1054,12 +1055,12 @@
   .text-white {
     color: #f5f7fa;
     font-size: 19px;
-    font-weight: 800;
+    font-weight: 700;
   }
   .text-gray {
     color: #cfc8c8;
     font-size: 16px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   }
   .flex-foodter {
     display: flex;
@@ -1076,7 +1077,7 @@
     border-radius: 10px;
   }
   .icon-foodter {
-    font-size: 20px;
+    font-size: 16px;
     color: black;
   }
 }
@@ -1093,12 +1094,12 @@
   .text-white {
     color: #f5f7fa;
     font-size: 19px;
-    font-weight: 800;
+    font-weight: 700;
   }
   .text-gray {
     color: #cfc8c8;
     font-size: 16px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   }
   .flex-foodter {
     display: flex;
@@ -1115,7 +1116,7 @@
     border-radius: 10px;
   }
   .icon-foodter {
-    font-size: 20px;
+    font-size: 16px;
     color: black;
   }
 }
@@ -1132,12 +1133,12 @@
   .text-white {
     color: #f5f7fa;
     font-size: 19px;
-    font-weight: 800;
+    font-weight: 700;
   }
   .text-gray {
     color: #cfc8c8;
     font-size: 16px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   }
   .flex-foodter {
     display: flex;
@@ -1154,7 +1155,7 @@
     border-radius: 10px;
   }
   .icon-foodter {
-    font-size: 20px;
+    font-size: 16px;
     color: black;
   }
 }
