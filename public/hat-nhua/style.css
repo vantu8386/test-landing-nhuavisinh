@@ -4198,3 +4198,17 @@ header {
 .address {
   background-color: #fd6600;
 }
+
+/* thanh cuộn thông dụng */
+/* 
+.single-widget .widget-content.tags-widget {
+  display: flex;
+  flex-direction: column;
+  max-height: 300px; 
+  overflow-y: auto;
+}
+
+.single-widget .widget-content.tags-widget a {
+  flex: 1; 
+} */
+
